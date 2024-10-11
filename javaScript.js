@@ -1299,9 +1299,9 @@ document.addEventListener("DOMContentLoaded", () => {
                                    }"  type="audio/ogg"> 
                                    </audio> `;
 
-          descriptionMusic.innerHTML = `<p>${
-            audio[index - 1].description
-          } </p>`;
+          // descriptionMusic.innerHTML = `<p>${
+          //   audio[index - 1].description
+          // } </p>`;
         }
 
         const NewMusic = document.querySelectorAll(".cardOfMusic");
@@ -1367,9 +1367,9 @@ document.addEventListener("DOMContentLoaded", () => {
                                       }"  type="audio/ogg"> 
                                       </audio> `;
 
-          descriptionMusic.innerHTML = `<p>${
-            audio[index - 1].description
-          } </p>`;
+          // descriptionMusic.innerHTML = `<p>${
+          //   audio[index - 1].description
+          // } </p>`;
         }
 
         const music = document.querySelectorAll(".cardOfMusic");
@@ -1444,7 +1444,7 @@ function methos(id) {
                             }"  type="audio/ogg"> 
                             </audio> `;
 
-  descriptionMusic.innerHTML = `<p>${audio[index - 1].description} </p>`;
+  // descriptionMusic.innerHTML = `<p>${audio[index - 1].description} </p>`;
 }
 
 const music = document.querySelectorAll(".cardOfMusic");
