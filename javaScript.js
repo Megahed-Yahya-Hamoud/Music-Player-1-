@@ -1235,7 +1235,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const searchBtn = document.querySelector(".search-btn");
 
   if (inputSearch && searchBtn) {
-    searchBtn.addEventListener("keydown", () => {
+    searchBtn.addEventListener("click", () => {
       if (inputSearch.value) {
         const oneMusic = audio.filter(
           (ele) =>
@@ -1243,6 +1243,7 @@ document.addEventListener("DOMContentLoaded", () => {
               inputSearch.value.toLocaleLowerCase()
             )
         );
+
 
         // console.log(oneMusic.map(ele=>ele.title));
 
