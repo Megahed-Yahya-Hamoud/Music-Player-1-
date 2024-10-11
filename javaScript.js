@@ -151,7 +151,7 @@ const audio = [
     artist: "عماد باشا",
     category: "festival",
     duration: "",
-    image: "./public/image/بعد_اليالي.jpg",
+    image: "./public/image/باشا_باشا.jpg",
     link: "./public/music/basha basha  - Emad Basha l exclusive l  باشا باشا - عماد باشا 2021(MP3_160K).mp3",
     language: "arabic",
     description: "باشا باشا انا الباشا ( عماد باشا )",
@@ -209,7 +209,7 @@ const audio = [
     image: "./public/image/الدنيا_حلوة.jpg",
     link: "./public/music/El Donia Helwa _ Nancy Ajram _ Indonesian Translation _ الدنيا حلوة _ نانسي عجرم(MP3_160K).mp3",
     language: "arabic",
-    description: "( نانسي عجرم ) الدنيا حلوة ",
+    description: "( نانسي عجرم ) بنعيشها و احنا يا ناس عايشين الدنيا حلوة ",
   },
   {
     id: 20,
@@ -242,7 +242,7 @@ const audio = [
     image: "./public/image/ahna1991.jpg",
     link: "./public/music/G.Oka-1991 ( atdl3 )  _ official music video _ ( جنرال اوكا مهرجان ١٩٩١( اتدلع(MP3_160K).mp3",
     language: "arabic",
-    description: " الف تسعمية احنا الجيل اللي اتدلع  ١٩٩١ ( مهرجان ١٩٩١ )",
+    description: " اوكا الف تسعمية احنا الجيل اللي اتدلع  ١٩٩١ ( مهرجان ١٩٩١ )",
   },
   {
     id: 23,
@@ -364,7 +364,7 @@ const audio = [
     image: "./public/image/البادي_اظلم.jpg",
     link: "./public/music/Jannat ... Al Badi Azlam - Video Clip _ جنات ... البادي أظلم - فيديو كليب(MP3_320K).mp3",
     language: "arabic",
-    description: "البادي أظلم ( جنات )",
+    description: "البادي أظلم دانت بتحلم ( جنات )",
   },
   {
     id: 34,
@@ -791,7 +791,7 @@ const audio = [
     image: "./public/image/قاضية.jpg",
     link: "./public/music/Eslam Shendy - El Qadya [ From Welad Rizk 3 ] _ إسلام شيندي - القاضية [ من فيلم اولاد رزق 3](M4A_128K).m4a",
     language: "arabic",
-    description: "القاضية من فيلم اولاد رزق 3",
+    description: "القاضية من فيلم اولاد رزق   ( اسلام شيندي )3",
   },
   {
     id: 72,
@@ -802,7 +802,7 @@ const audio = [
     image: "./public/image/سيب_علامة.jpg",
     link: "./public/music/وائل عامر - سيب علامة(MP3_320K).mp3",
     language: "arabic",
-    description: "سيب علامة للي بعدك من فيلم بيكيا",
+    description: "( وائل عامر  ) سيب علامة للي بعدك من فيلم بيكيا",
   },
   {
     id: 73,
@@ -813,7 +813,7 @@ const audio = [
     image: "./public/image/متبكيش_ياعين.jpg",
     link: "./public/music/نور الدين الطيار - ماتبكيش ياعين - ملكوش مكان جوانا - ( الڤيديو الرسمي ) Xoureldin (Official Video)(MP3_320K).mp3",
     language: "arabic",
-    description: "ماتبكيش ياعين - ملكوش مكان جوانا",
+    description: "( نور الدين الطيار ) ماتبكيش ياعين - ملكوش مكان جوانا",
   },
   {
     id: 74,
@@ -824,7 +824,7 @@ const audio = [
     image: "./public/image/نزلة_سمان.jpg",
     link: "./public/music/نزلة سمان _ كريم أسامة ( اسف ع الازعاج لساني مفيش حاجه هنا حكماه) ⚡--(MP3_160K).mp3",
     language: "arabic",
-    description: "اسف ع الازعاج لساني مفيش حاجه هنا حكماه جاي بعد ما الميزان ",
+    description: "( كريم أسامة  ) اسف ع الازعاج لساني مفيش حاجه هنا حكماه جاي بعد ما الميزان ",
   },
   {
     id: 75,
@@ -835,7 +835,7 @@ const audio = [
     image: "./public/image/انت_تقول.jpg",
     link: "./public/music/نجاة الصغيرة - انت تقول وتمشى(MP3_320K).mp3",
     language: "arabic",
-    description: "انت تقول وتمشى انا اسهر ما نمشي",
+    description: "( نجاة الصغيرة ) انت تقول وتمشى انا اسهر ما نمشي",
   },
   {
     id: 76,
@@ -858,7 +858,7 @@ const audio = [
     link: "./public/music/مهرجان قلبك بحر مالح -- _ مشينا صح مش عاجب _ الصواريخ دقدق و باسم فانكى _ Albk Bahr Maleh(MP3_160K).mp3",
     language: "arabic",
     description:
-      "مهرجان قلبك بحر مالح -- _ مشينا صح مش عاجب _ الصواريخ دقدق و باسم فانكى",
+      "( الصواريخ دقدق و باسم فانكى ) مهرجان قلبك بحر مالح -- _ مشينا صح مش عاجب _ الصواريخ دقدق و باسم فانكى",
   },
   {
     id: 78,
@@ -880,7 +880,7 @@ const audio = [
     image: "./public/image/عم_المجال.jpg",
     link: "./public/music/محمود الليثي - عم المجال كله ( يبني أنا في الشغله دي عمها ) [Official Music Lyrics] ابو السيد [2024](M4A_128K).m4a",
     language: "arabic",
-    description: "عم المجال كله يبني أنا في الشغله دي عمها ",
+    description: "( محمود الليثي ) عم المجال كله يبني أنا في الشغله دي عمها ",
   },
   {
     id: 80,
@@ -891,7 +891,7 @@ const audio = [
     image: "./public/image/كلمات-اغنية-اتخنقت-محمد-محي.jpg",
     link: "./public/music/محمد محي- اتخنقت-(MP3_320K).mp3",
     language: "arabic",
-    description: "اتخنقت",
+    description: "( محمد محي ) اتخنقت",
   },
   {
     id: 81,
@@ -902,7 +902,7 @@ const audio = [
     image: "./public/image/قالوا_عليكي.jpeg",
     link: "./public/music/محمد سعيد - قالوا عليكي __ Mohammed Saeed [Official Music](MP3_320K).mp3",
     language: "arabic",
-    description: "و قالوا عليكي",
+    description: "( محمد محي ) و قالوا عليكي",
   },
   {
     id: 82,
@@ -913,7 +913,7 @@ const audio = [
     image: "./public/image/واحد_من_الناس.webp",
     link: "./public/music/لؤي - واحد من الناس(MP3_320K).mp3",
     language: "",
-    description: "كان واحد من الناس",
+    description: "( لؤي ) كان واحد من الناس",
   },
   {
     id: 83,
@@ -924,7 +924,7 @@ const audio = [
     image: "./public/image/الفلوس.jpg",
     link: "./public/music/كليب مهرجان _ الفلوس _ احنا جامدين اوي اوي اوي _ احمد عبده - اسلام الملاح - انتاج ابو السيد تيم _94(MP3_160K).mp3",
     language: "arabic",
-    description: "كليب مهرجان _ الفلوس _ احنا جامدين اوي اوي اوي",
+    description: " ( احمد عبده - اسلام الملاح ) كليب مهرجان _ الفلوس _ احنا جامدين اوي اوي اوي",
   },
   {
     id: 84,
@@ -935,7 +935,7 @@ const audio = [
     image: "./public/image/طريق_الاندال.jpg",
     link: "./public/music/كليب طريق الاندال ( الظروف خلت الصحاب قلت ) حمادة الليثى و عمرو سلامة - انتاج سكر مصر 2023(MP3_160K).mp3",
     language: "arabic",
-    description: "كليب طريق الاندال الظروف خلت الصحاب قلت",
+    description: " ( حمادة الليثى و عمرو سلامة ) كليب طريق الاندال الظروف خلت الصحاب قلت",
   },
   {
     id: 85,
@@ -946,7 +946,7 @@ const audio = [
     image: "./public/image/يا_سبايسي.jpg",
     link: "./public/music/كليب _يا سبايسي_ ( انا سلسلتك حاضنة رقابتي ) سيف مجدي و عمر الكروان _ البوم سلطان الشن 2021(MP3_160K).mp3",
     language: "arabic",
-    description: "كليب يا سبايسي انا سلسلتك حاضنة رقابتي",
+    description:  " ( حمادة الليثى و عمرو سلامة ) كليب يا سبايسي انا سلسلتك حاضنة رقابتي",
   },
   {
     id: 86,
@@ -957,7 +957,7 @@ const audio = [
     image: "./public/image/amartEh.jpg",
     link: "./public/music/فريد - بأمارة مين (لو جاي في رجوع إنساني) - Farid - be_amart meen(MP3_320K).mp3",
     language: "arabic",
-    description: "بأمارة مين لو جاي في رجوع إنساني",
+    description: "( فريد ) بأمارة مين لو جاي في رجوع إنساني",
   },
   {
     id: 87,
@@ -968,7 +968,7 @@ const audio = [
     image: "./public/image/ضيعنا.jpg",
     link: "./public/music/عمر كمال وعبد الباسط حمودة واوكسانا _ ضيعنا _ Omar Kamal _ Abdelbaset Hamouda _ Dai3na(MP3_160K).mp3",
     language: "arabic",
-    description: "ضيعنا",
+    description: " ( عمر كمال وعبد الباسط حمودة واوكسانا ) لو انك اخر قطعة احب اقولك بالسلامة فلوس نطير  ضيعنا",
   },
   {
     id: 88,
@@ -979,7 +979,7 @@ const audio = [
     image: "./public/image/وبينا_معاد.jpg",
     link: "./public/music/عمر دياب وبينا معاد ( Webna Maad Amr Diab ( HQ Music Sound(MP3_320K).mp3",
     language: "arabic",
-    description: "وبينا معاد",
+    description: " ( عمر دياب ) وبينا معاد",
   },
   {
     id: 89,
@@ -990,7 +990,7 @@ const audio = [
     image: "./public/image/زي_العسل.jpg",
     link: "./public/music/صباح- زي العسل(MP3_160K).mp3",
     language: "arabic",
-    description: "زي العسل",
+    description: "( صباح ) زي العسل",
   },
   {
     id: 90,
@@ -1001,7 +1001,7 @@ const audio = [
     image: "./public/image/اللي_يمشي.jpg",
     link: "./public/music/داليا - اللي يمشي عادي (حصرياً) _ 2021(MP3_160K).mp3",
     language: "arabic",
-    description: "اللي يمشي عادي",
+    description: "( داليا ) اللي يمشي عادي",
   },
   {
     id: 91,
@@ -1012,7 +1012,7 @@ const audio = [
     image: "./public/image/اعذريني.jpg",
     link: "./public/music/خالد عصام - اعذريني _ Khaled Essam - Ouzoreny(MP3_320K).mp3",
     language: "",
-    description: "اعذريني",
+    description: "( خالد عصام ) اعذريني",
   },
   {
     id: 92,
@@ -1023,7 +1023,7 @@ const audio = [
     image: "./public/image/اصعب_فراق.jpg",
     link: "./public/music/جورج وسوف أصعب فراق  Geroge Wassouf(MP3_320K).mp3",
     language: "arabic",
-    description: "أصعب فراق أصعب عذاب الشوق اللي غايب",
+    description: "( جورج وسوف ) أصعب فراق أصعب عذاب الشوق اللي غايب",
   },
   {
     id: 93,
@@ -1034,7 +1034,7 @@ const audio = [
     image: "./public/image/بعملها_كدا.jpg",
     link: "./public/music/بعملها كده - عنبه ( الحمد لله لوحدي حمله ) 2024 ‏ (Official Music Video) 3enba - b3melha Kda(M4A_128K).m4a",
     language: "arabic",
-    description: "بعملها كده",
+    description: "( عنبه ) بعملها كده",
   },
   {
     id: 94,
@@ -1045,7 +1045,7 @@ const audio = [
     image: "./public/image/اه_يا_حلو.jpg",
     link: "./public/music/اه يا حلو- ناي البرغوثي  Ah Ya Helu- Nai Barghouti(MP3_160K).mp3",
     language: "arabic",
-    description: "اه يا حلو",
+    description: "( ناي البرغوثي ) اه يا حلو",
   },
   {
     id: 95,
@@ -1056,7 +1056,7 @@ const audio = [
     image: "./public/image/rawakan.jpg",
     link: "./public/music/اغنيه ( روقان ) النسخة الماستر - حوده بندق - من مسلسل رحيل بطوله ياسمين صبري و احمد صلاح حسني حلقة 8(M4A_128K).m4a",
     language: "arabic",
-    description: "اللي معانا كسبان (روقان)",
+    description: "( حوده بندق ) اللي معانا كسبان (روقان)",
   },
   {
     id: 96,
@@ -1067,7 +1067,7 @@ const audio = [
     image: "./public/image/النمر.jpeg",
     link: "./public/music/اغنية_النمر_اول_ما_يظهر_-_غناء_رضا_البحراوي_-_تتر_مسلسل_النمر_2021_(192_kbps.mp3",
     language: "arabic",
-    description: "النمر اول ما بيظهر يخض",
+    description: "( رضا البحراوي ) النمر اول ما بيظهر يخض",
   },
   {
     id: 97,
@@ -1078,7 +1078,7 @@ const audio = [
     image: "./public/image/عيني_ليك_يا_ليل.jpg",
     link: "./public/music/نور الدين الطيار - عيني ليك ياليل Xoureldin (Officia Audio)(MP3_320K).mp3",
     language: "arabic",
-    description: "عيني ليك ياليل حالي مش بخير بتمنلوكوا الخير تتمنولي الشر ليه",
+    description: "( نور الدين الطيار ) عيني ليك ياليل حالي مش بخير بتمنلوكوا الخير تتمنولي الشر ليه",
   },
   {
     id: 98,
@@ -1090,7 +1090,7 @@ const audio = [
     link: "./public/music/نجاة الصغيرة   القريب منك بعيد   Najat Al Saghira(MP3_160K).mp3",
     language: "arabic",
     description:
-      "القريب منك بعيد و البعيد عنك قريب كل دا و فلبي اللي حبك لسة بيسميك حبيبي ",
+      "( نجاة الصغيرة ) القريب منك بعيد و البعيد عنك قريب كل دا و فلبي اللي حبك لسة بيسميك حبيبي ",
   },
   {
     id: 99,
@@ -1102,12 +1102,12 @@ const audio = [
     link: "./public/music/Helal Ramadan - Ehab Tawfik ( Official Music Video ) هلال رمضان - ايهاب توفيق(M4A_128K).m4a",
     language: "arabic",
     description:
-      "اغاني رمضان هلال رمضان لما تلاقي نجوم السما ملينا ايمان لما تلاقي الخير و الحب في كل مكان ",
+      " (  ايهاب توفيق )  اغاني رمضان هلال رمضان لما تلاقي نجوم السما ملينا ايمان لما تلاقي الخير و الحب في كل مكان ",
   },
   {
     id: 100,
     title: "اشهر اغاني رمضان",
-    artist: "مجمعه",
+    artist: "اشهر اغاني رمضان",
     category: "ramadan",
     duration: "",
     image: "./public/image/تجميعة_رمضان.jpg",
@@ -1124,7 +1124,8 @@ const audio = [
     image: "./public/image/جاري.jpeg",
     link: "./public/music/اعلان اورنچ رمضان 2018  _جارى_يا_جارى(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان جارى يا جارى يا حتة سكرة جارتي حببتي صديقة الحيوان ",
+    description:
+      " ( اعلان اورنچ رمضان ) اغاني رمضان جارى يا جارى يا حتة سكرة جارتي حببتي صديقة الحيوان ",
   },
   {
     id: 102,
@@ -1135,7 +1136,7 @@ const audio = [
     image: "./public/image/رمضان_كريم.jpg",
     link: "./public/music/اغنية رمضان كريم - غناء حكيم - من مسلسل رمضان كريم(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان رمضان كريم فتح يا عليم تلاتين يوم في هنا و سعادة",
+    description: "( حكيم ) اغاني رمضان رمضان كريم فتح يا عليم تلاتين يوم في هنا و سعادة",
   },
   {
     id: 103,
@@ -1146,7 +1147,7 @@ const audio = [
     image: "./public/image/اهو-جيه.jpg",
     link: "./public/music/اهو جه يا ولاد(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان اهو جه يا ولاد",
+    description: "( الثلاثي المرح ) اغاني رمضان اهو جه يا ولاد",
   },
   {
     id: 104,
@@ -1158,7 +1159,7 @@ const audio = [
     link: "./public/music/اورنچ رمضان 2021 _رمضان في مصر حاجة تانية_ حسين الجسمي(M4A_128K).m4a",
     language: "arabic",
     description:
-      "اغاني رمضان رمضان في مصر حاجة تانية و السر في التفاصيل رمضان في مصر غير الدنيا طعمه بطعم النيل",
+      "( حسين الجسمي ) اغاني رمضان رمضان في مصر حاجة تانية و السر في التفاصيل رمضان في مصر غير الدنيا طعمه بطعم النيل",
   },
   {
     id: 105,
@@ -1169,7 +1170,7 @@ const audio = [
     image: "./public/image/سر_السعادة.jpg",
     link: "./public/music/حسين الجسمي - سر السعاده  (ماونتن ڤيو رمضان) _ ٢٠٢١(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان سر السعاده علي معاد معاد كل ليلة",
+    description: "( حسين الجسمي ) اغاني رمضان سر السعاده علي معاد معاد كل ليلة",
   },
   {
     id: 106,
@@ -1180,7 +1181,8 @@ const audio = [
     image: "./public/image/العيلة_الكبيرة.jpg",
     link: "./public/music/ڤودافون – العيلة الكبيرة رمضان 2016(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان العيلة الكبيرة رمضان حالا بالن انا طالع  مسا التماسي",
+    description:
+      " ( اعلان ڤودافون ) اغاني رمضان العيلة الكبيرة رمضان حالا بالن انا طالع  مسا التماسي",
   },
   {
     id: 107,
@@ -1191,7 +1193,7 @@ const audio = [
     image: "./public/image/رمضان_جانا.jpg",
     link: "./public/music/محمد عبد المطلب _ أغنية رمضان جانا(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان رمضان جانا و فرحنابوا بعد غيابه اهلا رمضان",
+    description: " ( محمد عبد المطلب ) اغاني رمضان رمضان جانا و فرحنابوا بعد غيابه اهلا رمضان",
   },
   {
     id: 108,
@@ -1202,7 +1204,7 @@ const audio = [
     image: "./public/image/رمضان_جنة.jpg",
     link: "./public/music/محمد منير - رمضان جنه _ Mohamed Mouner - Ramdan Gana(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان رمضان جنه رمضان فرحة اهلا رمضان",
+    description: " ( محمد منير ) اغاني رمضان رمضان جنه رمضان فرحة اهلا رمضان",
   },
   {
     id: 109,
@@ -1213,7 +1215,7 @@ const audio = [
     image: "./public/image/مرحب_شهر_الصوم.jpg",
     link: "./public/music/مرحب شهر الصوم(M4A_128K).m4a",
     language: "arabic",
-    description: "اغاني رمضان مرحب شهر الصوم لياليك عادة بأمان",
+    description: " ( عبد العزيز محمود ) اغاني رمضان مرحب شهر الصوم لياليك عادة بأمان",
   },
 ];
 
@@ -1237,13 +1239,11 @@ document.addEventListener("DOMContentLoaded", () => {
   if (inputSearch && searchBtn) {
     searchBtn.addEventListener("click", () => {
       if (inputSearch.value) {
-        const oneMusic = audio.filter(
-          (ele) =>
-            ele.description.toLocaleLowerCase().includes(
-              inputSearch.value.toLocaleLowerCase()
-            )
+        const oneMusic = audio.filter((ele) =>
+          ele.description
+            .toLocaleLowerCase()
+            .includes(inputSearch.value.toLocaleLowerCase())
         );
-
 
         // console.log(oneMusic.map(ele=>ele.title));
 
