@@ -1090,7 +1090,7 @@ const audio = [
     link: "./public/music/نجاة الصغيرة   القريب منك بعيد   Najat Al Saghira(MP3_160K).mp3",
     language: "arabic",
     description:
-      "القريب منك بعيد و البعيد عنك قريب كل دا و فلبي اللي حبك لسة بيسميك حبيبي",
+      "القريب منك بعيد و البعيد عنك قريب كل دا و فلبي اللي حبك لسة بيسميك حبيبي ",
   },
   {
     id: 99,
@@ -1102,7 +1102,7 @@ const audio = [
     link: "./public/music/Helal Ramadan - Ehab Tawfik ( Official Music Video ) هلال رمضان - ايهاب توفيق(M4A_128K).m4a",
     language: "arabic",
     description:
-      "هلال رمضان لما تلاقي نجوم السما ملينا ايمان لما تلاقي الخير و الحب في كل مكان ",
+      "اغاني رمضان هلال رمضان لما تلاقي نجوم السما ملينا ايمان لما تلاقي الخير و الحب في كل مكان ",
   },
   {
     id: 100,
@@ -1113,7 +1113,7 @@ const audio = [
     image: "./public/image/تجميعة_رمضان.jpg",
     link: "./public/music/اشهر اغاني رمضان  القديمة مجمعه - جودة عالية(M4A_128K).m4a",
     language: "arabic",
-    description: "اشهر اغاني رمضان تجميعة اغاني رمضان ",
+    description: " اشهر اغاني رمضان تجميعة اغاني رمضان ",
   },
   {
     id: 101,
@@ -1124,7 +1124,7 @@ const audio = [
     image: "./public/image/جاري.jpeg",
     link: "./public/music/اعلان اورنچ رمضان 2018  _جارى_يا_جارى(M4A_128K).m4a",
     language: "arabic",
-    description: "جارى يا جارى يا حتة سكرة جارتي حببتي صديقة الحيوان ",
+    description: "اغاني رمضان جارى يا جارى يا حتة سكرة جارتي حببتي صديقة الحيوان ",
   },
   {
     id: 102,
@@ -1135,7 +1135,7 @@ const audio = [
     image: "./public/image/رمضان_كريم.jpg",
     link: "./public/music/اغنية رمضان كريم - غناء حكيم - من مسلسل رمضان كريم(M4A_128K).m4a",
     language: "arabic",
-    description: "رمضان كريم فتح يا عليم تلاتين يوم في هنا و سعادة",
+    description: "اغاني رمضان رمضان كريم فتح يا عليم تلاتين يوم في هنا و سعادة",
   },
   {
     id: 103,
@@ -1146,7 +1146,7 @@ const audio = [
     image: "./public/image/اهو-جيه.jpg",
     link: "./public/music/اهو جه يا ولاد(M4A_128K).m4a",
     language: "arabic",
-    description: "اهو جه يا ولاد",
+    description: "اغاني رمضان اهو جه يا ولاد",
   },
   {
     id: 104,
@@ -1158,7 +1158,7 @@ const audio = [
     link: "./public/music/اورنچ رمضان 2021 _رمضان في مصر حاجة تانية_ حسين الجسمي(M4A_128K).m4a",
     language: "arabic",
     description:
-      "رمضان في مصر حاجة تانية و السر في التفاصيل رمضان في مصر غير الدنيا طعمه بطعم النيل",
+      "اغاني رمضان رمضان في مصر حاجة تانية و السر في التفاصيل رمضان في مصر غير الدنيا طعمه بطعم النيل",
   },
   {
     id: 105,
@@ -1169,7 +1169,7 @@ const audio = [
     image: "./public/image/سر_السعادة.jpg",
     link: "./public/music/حسين الجسمي - سر السعاده  (ماونتن ڤيو رمضان) _ ٢٠٢١(M4A_128K).m4a",
     language: "arabic",
-    description: "سر السعاده علي معاد معاد كل ليلة",
+    description: "اغاني رمضان سر السعاده علي معاد معاد كل ليلة",
   },
   {
     id: 106,
@@ -1180,7 +1180,7 @@ const audio = [
     image: "./public/image/العيلة_الكبيرة.jpg",
     link: "./public/music/ڤودافون – العيلة الكبيرة رمضان 2016(M4A_128K).m4a",
     language: "arabic",
-    description: "العيلة الكبيرة رمضان حالا بالن انا طالع  مسا التماسي",
+    description: "اغاني رمضان العيلة الكبيرة رمضان حالا بالن انا طالع  مسا التماسي",
   },
   {
     id: 107,
@@ -1191,7 +1191,7 @@ const audio = [
     image: "./public/image/رمضان_جانا.jpg",
     link: "./public/music/محمد عبد المطلب _ أغنية رمضان جانا(M4A_128K).m4a",
     language: "arabic",
-    description: "رمضان جانا و فرحنابوا بعد غيابه اهلا رمضان",
+    description: "اغاني رمضان رمضان جانا و فرحنابوا بعد غيابه اهلا رمضان",
   },
   {
     id: 108,
@@ -1202,7 +1202,7 @@ const audio = [
     image: "./public/image/رمضان_جنة.jpg",
     link: "./public/music/محمد منير - رمضان جنه _ Mohamed Mouner - Ramdan Gana(M4A_128K).m4a",
     language: "arabic",
-    description: "رمضان جنه رمضان فرحة اهلا رمضان",
+    description: "اغاني رمضان رمضان جنه رمضان فرحة اهلا رمضان",
   },
   {
     id: 109,
@@ -1213,7 +1213,7 @@ const audio = [
     image: "./public/image/مرحب_شهر_الصوم.jpg",
     link: "./public/music/مرحب شهر الصوم(M4A_128K).m4a",
     language: "arabic",
-    description: "مرحب شهر الصوم لياليك عادة بأمان",
+    description: "اغاني رمضان مرحب شهر الصوم لياليك عادة بأمان",
   },
 ];
 
@@ -1235,13 +1235,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const searchBtn = document.querySelector(".search-btn");
 
   if (inputSearch && searchBtn) {
-    searchBtn.addEventListener("click", () => {
+    searchBtn.addEventListener("keydown", () => {
       if (inputSearch.value) {
         const oneMusic = audio.filter(
           (ele) =>
-            ele.title.toLocaleLowerCase() ==
-            inputSearch.value.toLocaleLowerCase()
+            ele.description.toLocaleLowerCase().includes(
+              inputSearch.value.toLocaleLowerCase()
+            )
         );
+
         // console.log(oneMusic.map(ele=>ele.title));
 
         content.innerHTML = ``;
